@@ -1,2 +1,10 @@
 node_modules/**/*
 .expo/**/*
+
+
+./idea
+
+./.idea
+
+.idea
+
